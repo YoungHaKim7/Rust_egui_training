@@ -13,6 +13,9 @@ https://github.com/rerun-io/rerun
 
 # Rust GUI 종류
 
+- https://areweguiyet.com/
+- 레딧글 https://www.reddit.com/r/rust/comments/10wy4yw/rust_gui_framework/
+
 # Rust A Simple GUI Library
 
 https://google.github.io/comprehensive-rust/exercises/day-3/solutions-morning.html
