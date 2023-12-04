@@ -5,6 +5,15 @@
 - Font Size
   - https://github.com/emilk/egui/discussions/1478
 
+<hr>
+
+# 외국 사람의 egui tutorial
+
+- Twitch Stream Archives: rust, wgpu, egui, and rapier | Rhymu's Videos
+  - https://youtube.com/playlist?list=PLbtjxiXev6lrJclGQ1qC2O_9Qqi5HBrJr&si=Vg_hZ34aiHQKw0k5
+
+<hr>
+
 # egui 로 만든 작품 
 
 https://github.com/rerun-io/rerun
