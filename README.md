@@ -1,3 +1,8 @@
+# rust GUI 총정리
+- https://github.com/YoungHaKim7/rust_gui_app_in_summary
+
+<hr />
+
 # egui (Rust GUI) 
 - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native 
   - https://github.com/emilk/egui
